@@ -1,7 +1,7 @@
 body,html {
     margin: 0;
     padding: 0;
-    background-color: #12181B;
+    background-color: #27363e;
 }
 
 * {
@@ -45,7 +45,7 @@ body,html {
 }
 
 .set-alarm {
-    background-color: #498AFB;
+    background-color: #3172e0;
 }
 
 .clear-alarm {
